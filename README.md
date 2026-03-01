@@ -1,9 +1,9 @@
 # Cześć, jestem Wiktor! 👋
 
-Jestem ambitnym Web Developerem i entuzjastą self-hostingu z pasją do tworzenia użytecznych, szybkich i responsywnych aplikacji internetowych. Nieustannie się rozwijam, budując projekty od zera – od projektowania bazy danych i konfiguracji serwera, po gotowy interfejs użytkownika. Ostatnio stworzyłem m.in. zaawansowaną platformę e-commerce z własnym systemem CMS.
+Jestem początkującym Web Developerem. Od projektowania bazy danych i konfiguracji serwera, po gotowy interfejs użytkownika. Ostatnio stworzyłem m.in. zaawansowaną platformę e-commerce z własnym systemem CMS.
 
 ### 🛠️ Technologie i Narzędzia
-Poniżej znajdziesz technologie, z którymi na co dzień pracuję i w których czuję się najlepiej:
+Poniżej znajdziesz technologie i narzędzia, z którymi na co dzień pracuję i w których czuję się najlepiej:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -15,14 +15,12 @@ Poniżej znajdziesz technologie, z którymi na co dzień pracuję i w których c
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🚀 Czym się aktualnie zajmuję?
-- 🔭 Pracuję nad: **[Pasieka Pod Gruszką](https://github.com/wiktorzalewski/strona_pasieki)** – pełnoprawną platformą e-commerce z autorskim panelem administracyjnym i integracją Google API.
+- 🔭 Pracuję ostatnio nad: **[Pasieka Pod Gruszką](https://github.com/wiktorzalewski/strona_pasieki)** – pełnoprawną platformą e-commerce z autorskim panelem administracyjnym i integracją Google API.
 - 🖥️ Administruję i hostuję własnoręcznie wiele stron internetowych oraz serwerów, dbając o ich wydajność, bezpieczeństwo i niezawodną infrastrukturę.
 - 🌱 Uczę się: Zaawansowanych wzorców projektowych w PHP oraz nowoczesnych frameworków front-endowych.
-- 💡 Zawsze chętny do: Tworzenia czystego kodu i rozwiązywania skomplikowanych problemów architektonicznych.
 
 ### 📬 Kontakt
-Chcesz pogadać o kodzie, nowym projekcie lub współpracy? Śmiało!
 - 📧 Email: **[wiktorzalewski50@gmail.com](mailto:wiktorzalewski50@gmail.com)**
 
 ---
-⭐️ *Zawsze otwarty na wyzwania i nową wiedzę!*
+
