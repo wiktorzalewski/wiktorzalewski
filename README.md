@@ -1,6 +1,3 @@
-# Cześć, jestem Wiktor! 👋
-
-Jestem początkującym Web Developerem. Od projektowania bazy danych i konfiguracji serwera, po gotowy interfejs użytkownika. Ostatnio stworzyłem m.in. zaawansowaną platformę e-commerce z własnym systemem CMS.
 
 ### 🛠️ Technologie i Narzędzia
 Poniżej znajdziesz technologie i narzędzia, z którymi na co dzień pracuję i w których czuję się najlepiej:
